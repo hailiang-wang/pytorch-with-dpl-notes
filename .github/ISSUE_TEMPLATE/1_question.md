@@ -1,6 +1,6 @@
 ---
 name: Question
-about: 问题
+about: 问题，学习过程中遇到的疑问，etc.
 labels: question
 assignees: hailiang-wang
 ---

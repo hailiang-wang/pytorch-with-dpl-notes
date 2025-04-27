@@ -1,25 +1,19 @@
 ---
 name: Question
-about: 问题，学习过程中遇到的疑问，etc.
+about: Questions when reading a book，etc.
+title: 'A short description of the question, 20~60 words'
 labels: question
 assignees: hailiang-wang
 ---
 
-# Description
+# Question
+<!-- Book #1 - Deep Learning with PyTorch -->
+Book: #1, Page: 
 
-## Book
+<!-- Describe question here -->
 
-Book Name:
-Page: 
-
-## Parent
-
-Parent Issue: #
-
-<!-- Describe question below -->
-
-# Solution
-
+# Answer
+<!-- Describe possible solution -->
 
 # Version
-<!-- Git commit hash (`git rev-parse HEAD`)，进入代码库并执行 -->
+<!-- Git commit hash (`git rev-parse HEAD`)，run in git repo -->

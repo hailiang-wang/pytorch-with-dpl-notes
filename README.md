@@ -13,3 +13,18 @@ Learning [Deep Learning with PyTorch](https://isip.piconepress.com/courses/templ
 
 * [Hai Liang W.](https://github.com/hailiang-wang)
 * [Hudson Lee](https://github.com/hudsonlee-mtc)
+
+
+## subscriptions
+
+Set github notifications, choose Email.
+
+![alt text](assets/media/1745719275824.png)
+
+Set the repo's Watch.
+
+[https://github.com/hailiang-wang/pytorch-with-dpl-notes](https://github.com/hailiang-wang/pytorch-with-dpl-notes)
+
+Choose `All Activity`.
+
+![alt text](assets/media/1745719315309.png)
